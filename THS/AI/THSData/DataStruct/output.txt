@@ -1,0 +1,156 @@
+<!DOCTYPE html><html><head><meta name="sinfo" data-bz="STime: 2025-03-08 08:44:27 SNum: 148"/><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/><meta name="referrer" content="always"/><meta http-equiv="refresh" content="1800"/><title>来伊份(603777)_股票价格_行情_走势图—东方财富网</title><meta name="keywords" content="来伊份(603777),东方财富网,股票行情,行情中心,实时行情,五档盘口,逐笔交易,个股档案,公司简介,主力动向,财务数据,特色数据,阶段涨幅,所属板块,股权分析,分红融资,股市备忘,资金流入,主力控盘程度,机构资金与散户资金对比,交易数据排行,市盈率排行,财务指标排行,流通股本,每股收益,主营业务收入,个股研报,盈利预测,研报,资金流向,股吧"/><meta name="description" content="提供来伊份(603777)股票的行情走势、五档盘口、逐笔交易等实时行情数据，及来伊份(603777)的新闻资讯、公司公告、研究报告、行业研报、F10资料、行业资讯、资金流分析、阶段涨幅、所属板块、财务指标、机构观点、行业排名、估值水平、股吧互动等与来伊份(603777)有关的信息和服务。"/><base target="_blank"/><link href="/newstatic/build/concept.css" rel="stylesheet"/><link rel="stylesheet" href="//gbfek.dfcfw.com/deploy/quote2022_module/work/editor.css"/><link rel="stylesheet" href="//gbfek.dfcfw.com/deploy/quote2022_module/work/list.css"/></head><body style="margin-top:36px"><div id="app"><div class="mainbody concept"><div class="chead"><div class="logosearch"><div class="logo"><a href="https://www.eastmoney.com/"><img src="/newstatic/images/newlogo.png" width="150" height="36" alt="东方财富网"/></a></div><div class="lstitle"><a href="//quote.eastmoney.com/center/">行情中心</a></div><div class="quotecenter_menu"><div class="quotecentermenu"></div></div><div class="switch"><span>概念版</span><a href="//quote.eastmoney.com/unify/r/1.603777">经典版</a></div><div class="search"><div class="cheadsearch"><form action=""><input type="text" name="" class="key" id="hqb_t_search_input" placeholder="输入股票代码、名称、简拼或关键字"/><input type="submit" value="" class="submit"/></form></div></div></div><div class="zsbox"><div class="zsboxlist self_clearfix zsboxlist_big"><div class="zsboxlist self_clearfix"><div class="item"><div class="stock"><a href="//quote.eastmoney.com/unify/r/1.000001"><div class="name">上证指数</div><div class="newprice">-</div><div class="zd">- -</div></a></div><div class="simg"></div></div><div class="item"><div class="stock"><a href="//quote.eastmoney.com/unify/r/0.399001"><div class="name">深证成指</div><div class="newprice">-</div><div class="zd">- -</div></a></div><div class="simg"></div></div><div class="item"><div class="stock"><a href="//quote.eastmoney.com/unify/r/0.399006"><div class="name">创业板指</div><div class="newprice">-</div><div class="zd">- -</div></a></div><div class="simg"></div></div><div class="item"><div class="stock"><a href="//quote.eastmoney.com/unify/r/0.899050"><div class="name">北证50</div><div class="newprice">-</div><div class="zd">- -</div></a></div><div class="simg"></div></div><div class="item"><div class="stock"><div class="name">-</div><div class="newprice">-</div><div class="zd">- -</div></div><div class="simg"></div></div></div></div><div class="rconfig"><div class="zsconfig" title="设置行情指数"></div><div class="headzd" title="收起"></div></div></div><div class="headpkyd self_clearfix"><div class="t"><a href="//quote.eastmoney.com/changes/">盘口异动</a></div><div class="list_box"><div class="sc_pkbox"></div></div></div><div class="headhsgt self_clearfix"><div class="t"><a href="//quote.eastmoney.com/center/hsgt.html">沪深港通</a></div><div class="list"><div class="quote_hsgt"><table><tbody><tr><td><a href="//quote.eastmoney.com/center/gridlist.html#sh_hk_board" target="_blank" class="sg">沪股通</a>-<a href="http://data.eastmoney.com/hsgt/index.html" target="_blank" class="zjlink">资金流入</a>-</td><td><a href="//quote.eastmoney.com/center/gridlist.html#sz_hk_board" target="_blank" class="sg">深股通</a>-<a href="http://data.eastmoney.com/hsgt/index.html" target="_blank" class="zjlink">资金流入</a>-</td><td><a href="//quote.eastmoney.com/center/gridlist.html#hk_sh_stocks" target="_blank" class="sg">港股通(沪)</a>-<a href="http://data.eastmoney.com/hsgt/index.html" target="_blank" class="zjlink">资金流入</a>-</td><td><a href="//quote.eastmoney.com/center/gridlist.html#hk_sz_stocks" target="_blank" class="sg">港股通(深)</a>-<a href="http://data.eastmoney.com/hsgt/index.html" target="_blank" class="zjlink">资金流入</a>-</td></tr></tbody></table></div></div></div><div class="headsjzx self_clearfix"><div class="t"><a href="//data.eastmoney.com/center/">数据中心</a></div><div class="list"><a href="//data.eastmoney.com/zjlx/">资金流向</a><a href="//data.eastmoney.com/zjlx/list.html">主力排名</a><a href="//data.eastmoney.com/bkzj/hy.html">板块资金</a><a href="//data.eastmoney.com/report/">个股研报</a><a href="//data.eastmoney.com/xg/xg/default.html">新股申购</a><a href="//data.eastmoney.com/kzz/">转债申购</a><a href="//data.eastmoney.com/xg/xg/?mkt=bjs">北交所申购</a><a href="//quote.eastmoney.com/center/gridlist.html#ah_comparison">AH股比价</a><a href="//data.eastmoney.com/bbsj/">年报大全</a><a href="//data.eastmoney.com/rzrq/">融资融券</a><a href="//data.eastmoney.com/stock/lhb.html">龙虎榜</a><a href="//data.eastmoney.com/dxf/">限售解禁</a><a href="//data.eastmoney.com/xg/ipo/">注册审批</a><a href="//data.eastmoney.com/dzjy/">大宗交易</a><a href="//data.eastmoney.com/gzfx/">估值分析</a></div></div></div><div class="zxghistory self_clearfix"><div class="zxg"><a class="zxg_t" href="#" target="_self">自选股列表</a></div><div class="history"><div class="list"><div class="quote_history" style="max-width:1050px"><span class="qh_t">最近访问：</span></div></div></div></div><div id="zzcfdiv"></div><div class="stockquote"><div class="sqt self_clearfix"><div class="sqt_l"><span class="name">来伊份</span><span class="code">603777</span><span class="labellist"></span></div><div class="sqt_r"><a href="#" target="_self" class="sqt_r_link">模拟交易</a><a href="https://jy.xzsec.com/Trade/Buy" class="sqt_r_link">实盘交易</a></div></div><div class="numbs self_clearfix"><div class="zd"><div class="newprice">-</div><div class="zdfe"><span class="zde">-</span><span class="zdf">-</span></div></div><div class="stockitems"><table style="width:100%"><tbody><tr><td><div class="item"><div class="l">今开</div><div class="r">-</div></div></td><td><div class="item"><div class="l">昨收</div><div class="r">-</div></div></td><td><div class="item"><div class="l">最高价</div><div class="r">-</div></div></td><td><div class="item"><div class="l">最低价</div><div class="r">-</div></div></td><td><div class="item"><div class="l">涨停价</div><div class="r">-</div></div></td><td><div class="item"><div class="l">跌停价</div><div class="r">-</div></div></td></tr><tr><td><div class="item"><div class="l">换手率</div><div class="r">-</div></div></td><td><div class="item"><div class="l">量比</div><div class="r">-</div></div></td><td><div class="item"><div class="l">成交量</div><div class="r">-</div></div></td><td><div class="item"><div class="l">成交额</div><div class="r">-</div></div></td><td><div class="item"><div class="l">动态市盈率</div><div class="r">-</div></div></td><td><div class="item"><div class="l">市净率</div><div class="r">-</div></div></td></tr><tr><td><div class="item"><div class="l">总市值</div><div class="r">-</div></div></td><td><div class="item"><div class="l">流通市值</div><div class="r">-</div></div></td><td><div class="item"><div class="l">振幅</div><div class="r">-</div></div></td><td><div class="item"><div class="l">内盘</div><div class="r">-</div></div></td><td><div class="item"><div class="l">外盘</div><div class="r">-</div></div></td><td><div class="item"><div class="customzb" title="设置行情数据"></div></div></td></tr></tbody></table></div><div class="f10list"><ul><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/cpbd">操盘必读</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/gsgk	">公司概况</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/jyfx">经营分析</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/cwfx">财务分析</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/gdyj">股东研究</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/hxtc">核心题材</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/fhrz">分红融资</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/gsds">公司大事</a></li><li><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/cpbd" class="more">查看更多&gt;</a></li></ul></div><div class="xgquote_c"></div></div></div><div class="scatg self_clearfix"><div class="scatg_l"><div class="stockcalendar"><a href="//data.eastmoney.com/stockcalendar/603777.html" target="_blank" title="个股日历"><div class="sctitle"></div></a><div class="nodata">数据加载中...</div></div></div><div class="scatg_r"><iframe src="//same.eastmoney.com/s?z=eastmoney&amp;c=1747&amp;op=1" scrolling="no" marginWidth="0" marginHeight="0" frameBorder="0" width="270" height="56" style="border-radius:10px"></iframe></div></div><div class="maincharts self_clearfix"><div class="charts"><div><div class="timechart_types self_clearfix"><ul><li class="">盘前</li><li class="active">分时</li><li class="dayslist"><span>5日</span><span class="daydown"></span><div class="downlist"><ul><li>分时</li><li>2日</li><li>3日</li><li>4日</li><li>5日</li></ul></div></li><li class="">日K</li><li class="">周K</li><li class="">月K</li><li class="">5分钟</li><li class="">15分钟</li><li class="">30分钟</li><li class="">60分钟</li></ul><div class="charttyper"><a href="#" target="_self" title="全屏" class="full"></a></div></div><div id="main_time_chart"></div><div class="kline_zb self_clearfix"><div class="zbmt"><span class="zbt">指标</span></div><div class="main_zb"><ul><li class="">关闭</li><li class="active">RSI</li><li class="">KDJ</li><li class="">MACD</li><li class="">WR</li><li class="">DMI</li><li class="">BIAS</li><li class="">OBV</li><li class="">CCI</li><li class="">ROC</li></ul></div></div></div></div><div class="charts_sider"><div class="chartssidernumbs"><div class="csn_wbwc_mm"><div class="wbwc"><span class="wb">委比：<em>-</em></span><span class="wc">委差：<em>-</em></span></div><div class="mm"><table><tbody><tr><td>涨停</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td colSpan="3" style="text-align:right"><span class="ks_mrmc">闪电买入</span></td></tr><tr class=" "><td>卖五</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>卖四</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>卖三</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>卖二</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class="topb "><td>卖一</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" topt"><td>买一</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>买二</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>买三</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>买四</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr class=" "><td>买五</td><td class="mock_mm_td">-<span class="mock_mm">买入</span></td><td class="mmbar_td"></td><td class="mml">-<span class="mock_mc">卖出</span></td><td>-</td></tr><tr><td>跌停</td><td class="mml">-<span class="mock_mc">卖出</span></td><td colSpan="3" style="text-align:right"><span class="ks_mrmc">闪电卖出</span></td></tr></tbody></table></div></div><div class="csn_wbwc_mm2"><table><tbody><tr><td class="k">总手：</td><td class="v">-</td><td class="k">金额：</td><td class="v">-</td></tr><tr><td class="k">换手：</td><td class="v">-</td><td class="k">量比：</td><td class="v">-</td></tr><tr><td class="k">外盘：</td><td class="v">-</td><td class="k">内盘：</td><td class="v">-</td></tr></tbody></table></div><div class="fscj"><table><thead><tr><td colSpan="3"><span class="price_block_down2"></span>大于20万内盘 <span class="price_block_up2"></span>大于20万外盘</td></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table><div class="more"><a href="//quote.eastmoney.com/f1.html?newcode=1.603777">点击查看更多分时成交</a></div></div></div></div></div><div class="hlinetg"><iframe src="//same.eastmoney.com/s?z=eastmoney&amp;la=4" scrolling="no" marginWidth="0" marginHeight="0" frameBorder="0" width="1200" height="108" style="border-radius:10px"></iframe></div><div class="bp2s self_clearfix"><div class="bp2sl self_clearfix"><div class="bp2sll"><div class="bbox"><div class="bbox_t"><span class="bbox_tt">资讯</span><a href="//so.eastmoney.com/news/s?keyword=%E6%9D%A5%E4%BC%8A%E4%BB%BD" class="more">更多&gt;</a></div><div class="bbox_t2"><ul><li class="active"><a href="//so.eastmoney.com/news/s?keyword=%E6%9D%A5%E4%BC%8A%E4%BB%BD">个股资讯</a></li><li class=""><a href="//stock.eastmoney.com/hangye/hy0438.html">行业资讯</a></li></ul></div><div class="bbox_b"><div class="newslist"><div class="nodata">加载中...</div></div></div></div></div><div class="bp2slr"><div class="bbox"><div class="bbox_t"><ul class="bbox_tul"><li class="active">公告</li><li class="">研报</li></ul><a href="//data.eastmoney.com/notices/stock/603777.html" class="more">更多&gt;</a></div><div class="bbox_b"><div class="newslist newslist2"><ul><div class="nodata">加载中...</div></ul></div></div></div></div><div class="self_clearfix"></div><div id="posteditor"></div><div id="mainlist"></div></div><div class="bp2sr"><div class="csiderbox"><div class="csiderbox_t"><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/gsgk	">公司资料</a><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div class="gszl"></div></div></div><div class="csiderbox"><div class="csiderbox_t"><a href="//data.eastmoney.com/stockdata/603777.html">公司核心数据</a><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div class="hxsj"><div class="quotecore"><table><tbody><tr><td class="label" title="第-季度每股收益">收益(<span>-</span>):</td><td class="value">-</td><td class="label"><span title="加权净资产收益率">ROE</span>:</td><td class="value">-</td><td class="label">同比:</td><td class="value">-</td></tr><tr><td class="label">净资产:</td><td class="value">-</td><td class="label">总股本: </td><td class="value">-</td><td class="label">净利率:</td><td class="value">-</td></tr><tr><td class="label">总营收:</td><td class="value">-</td><td class="label">流通股: </td><td class="value">-</td><td class="label">负债率:</td><td class="value">-</td></tr><tr><td class="label">净利润:</td><td class="value">-</td><td class="label">PE(动):</td><td class="value">-</td><td class="label">总值:</td><td class="value">-</td></tr><tr><td class="label">毛利率:</td><td class="value">-</td><td class="label">市净率:</td><td class="value">-</td><td class="label">流值:</td><td class="value">-</td></tr><tr><td colSpan="3"><span class="label">每股未分配利润:</span> -元</td><td colSpan="3" class="value"><span class="label">上市时间:</span> -</td></tr></tbody></table></div></div></div></div><div class="csiderbox"><div class="csiderbox_t"><span>所属板块</span><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div class="hxsj"></div></div></div><div class="csiderbox"><div class="csiderbox_t"><a href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&amp;code=SH603777&amp;color=b#/gbjg">股本结构</a><div class="csiderbox_t_r"><span>单位：万股</span></div></div><div class="csiderbox_b"><div class="gbjg"></div></div></div><div class="csiderbox"><div class="csiderbox_t"><a href="//data.eastmoney.com/zjlx/603777.html">资金流向</a><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div style="min-height:150px"></div></div></div><div class="csiderbox"><div class="csiderbox_t"><a href="//quote.eastmoney.com/bk/90.BK0438.html">[食品饮料]相关个股</a><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div><div class="xggg"></div></div></div></div><div class="csiderbox"><div class="csiderbox_t"><a href="//data.eastmoney.com/stockdata/603777.html#cwsj">利润趋势</a><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div><div style="height:80px;padding-top:70px;text-align:center">数据加载中...</div></div></div></div><div class="csiderbox"><div class="csiderbox_t"><span>阶段涨幅</span><div class="csiderbox_t_r"></div></div><div class="csiderbox_b"><div><div style="height:80px;padding-top:70px;text-align:center">数据加载中...</div></div></div></div></div></div></div></div><div class="footer"><!-- footer-2016 -->
+<style>
+    .footer2016 ul {list-style: none;margin: 0;padding: 0;}
+    .footer2016 a:hover{color:#ff4901 !important;text-decoration: underline !important;}
+    .footer2016 .icon, .footer2016 .navlist li a {display: inline-block;}
+    .footer2016 .icon {background-image: url(//g1.dfcfw.com/g4/202005/20200513165332.png);background-repeat: no-repeat;}
+    .footer2016 {margin: 0 auto;clear: both;width: 1200px;line-height: 1.1;_line-height: 1.2;font-family: simsun;font-size: 12px;border-top: 2px solid #2F5895;}
+    .footer2016 .footertg {background-color: #F3F3F3;float: left;width: 100%;padding: 12px 0 0;height: 140px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qr {float: left;width: 80px;height: 140px;line-height: 150%;padding: 0 20px 0 8px;}
+    .footer2016 .qr .t {font-weight: 700;font-size: 14px;padding-bottom: 10px;}
+    .footer2016 .icon_qrem80, .footer2016 .icon_qrjj80 {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 80px;height: 80px;}
+    .footer2016 .icon_qrem80 {background-position: 0 -330px;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 86px;height: 106px;}
+    .footer2016 .icon_emwxqr {background-position: -90px 0;}
+    .footer2016 .ftglist ul li.qrli {position: relative;}
+    .footer2016 .ftglist ul li.qrli:hover .icon_qr, .footer2016 .scl-news .name a {display: block;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {display: none;position: absolute;left: 0;top: 24px;}
+    .footer2016 .ftglist {float: left;height: 140px;padding: 0 20px;}
+    .footer2016 .ftglistt {font-size: 14px;font-weight: 700;line-height: 130%;padding-bottom: 6px;text-align: left;}
+    .footer2016 .ftglist ul li {padding: 5px 0;color: #676767;text-align: left;}
+    .footer2016 .icon_wb {background-position: -24px 0;width: 14px;height: 12px;}
+    .footer2016 .icon_wx {background-position: 0 0;width: 14px;height: 11px;}
+    .footer2016 .icon_note {background-position: -47px 0;width: 13px;height: 11px;}
+    .footer2016 .ftglist .icon {vertical-align: -1px;margin-right: 2px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qrl {border-left: 1px solid #ddd;margin-left: 20px;padding-left: 40px;}
+    .footer2016 .icon_qrjj80 {background-position: -90px -330px;}
+    .footer2016 .footercr {clear: both;text-align: center;line-height: 26px;font-size: 12px;width:1200px;margin: 0 auto;height:26px;overflow:hidden;}
+    .footer2016 .icon_icp {background-position: -24px -21px;width: 15px;height: 17px;}
+    .footer2016 .footercr .icon {vertical-align: -3px;margin-right: 2px;}
+    .footer2016 .icon_pol {background-position: 0 -22px;width: 18px;height: 20px;}
+    .footer2016 .footerlinks {background-color: #2F5895;height: 30px;text-align: center;line-height: 30px;}
+    .footer2016 .footerlinks a:link, .footer2016 .footerlinks a:visited, .footer2016 .footerlinks a:hover {color: #fff !important;text-decoration: none;margin: 0 14px;}
+    .footer2016 .footerbz {text-align: center;padding: 12px 0;}
+    .footer2016 .footerbz a {margin: 0 4px;}
+    .footer2016 .footer-police {background-position: 0 -112px;width: 110px;height: 40px;}
+    .footer2016 .footer-zx110 {background-position: -120px -113px;width: 110px;height: 40px;}
+    .footer2016 .footer-shjubao {background-position: 0 -172px;width: 110px;height: 40px;}
+    .footer2016 .footer-cxzx {background-position: -120px -174px;width: 40px;height: 40px;}
+    .footer2016 .footer-shgs {background-position: -180px -174px;width: 47px;height: 40px;}
+    .footer2016 .footer-12377 {background-position: 0 -54px;width: 186px;height: 40px;}
+    .footer2016 .footer-yhjb {background-position: 0 -229px;width: 123px;height: 40px;}
+    .footer2016 .footer-qrlast {width: 90px;}
+    .footer2016 .footer-icon-qihuoqr { background: url(https://g1.dfcfw.com/g4/202303/20230324150231.png);width: 80px;height: 80px;display: inline-block;background-repeat: no-repeat;vertical-align: -5px;}
+    .footer2016 .footer-lastqihuo { padding-right: 0px;}
+</style>
+
+<div class="footer2016">
+    <div class="footertg">
+        <div class="qr">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富</a></div>
+            <a href="http://acttg.eastmoney.com/pub/web_app_dcsy_2wm_01_01_01_0" target="_blank"><em class="icon icon_qrem80"></em></a><br />扫一扫下载APP
+        </div>
+
+        <div class="ftglist">
+            <div class="ftglistt">东方财富产品</div>
+            <ul>
+                <li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwmfb_01_01_01_0" target="_blank">东方财富免费版</a></li>
+                <li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwl2_01_01_01_0" target="_blank">东方财富Level-2</a></li>
+                <li><a href="https://www.dfcfw.com/CLB/" target="_blank">东方财富策略版</a></li>
+                <li><a href="https://acttg.eastmoney.com/pub/web_dfcfsy_wzl_bottom_02_02_04_1" target="_blank">妙想投研助理</a></li>
+                <li><a href="https://choice.eastmoney.com/terminal?adid=web_choice_dcsy_website_02_01_01_0" target="_blank">Choice金融终端</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">证券交易</div>
+            <ul>
+                <li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dbtkwzl_01_01_01_0" target="_blank">东方财富证券开户</a></li>
+                <li><a href="https://jywg.18.cn/Trade/Buy" target="_blank">东方财富在线交易</a></li>
+				<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfzqjy_01_01_01_0"  target="_blank">东方财富证券交易</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">关注东方财富</div>
+            <ul>
+                <li><a href="http://weibo.com/dfcfw" target="_blank"><em class="icon icon_wb"></em>东方财富网微博</a></li>
+                <li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>东方财富网微信</a><em class="icon icon_qr icon_emwxqr"></em></li>
+                <li><a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><em class="icon icon_note"></em>意见与建议</a></li>
+            </ul>
+        </div>
+        <div class="qr qrl">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_ttjjsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">天天基金</a></div>
+            <a href="http://js1.eastmoney.com/tg.aspx?ID=4672" target="_blank"><em class="icon icon_qrjj80"></em></a><br />扫一扫下载APP
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">基金交易</div>
+            <ul>
+                <li><a href="https://trade6.1234567.com.cn/reg/step1" target="_blank">基金开户</a></li>
+                <li><a href="https://trade.1234567.com.cn/login" target="_blank">基金交易</a></li>
+                <li><a href="http://huoqibao.1234567.com.cn/" target="_blank">活期宝</a></li>
+                <li><a href="http://fund.eastmoney.com/trade/default.html" target="_blank">基金产品</a></li>
+                <li><a href="http://fund.eastmoney.com/gslc/" target="_blank">稳健理财</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">关注天天基金</div>
+            <ul>
+                <li><a href="http://weibo.com/ttfund" target="_blank"><em class="icon icon_wb"></em>天天基金网微博</a></li>
+                <li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>天天基金网微信<em class="icon icon_qr icon_jjwxqr"></em></a></li>
+            </ul>
+        </div>
+        <div class="qr qrl footer-qrlast">
+            <div class="t"><a href="https://qs.dfcfw.com/1605" style="color:#000" target="_blank">东方财富期货</a></div>
+            <a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibudfcfqh_01_01_01_1" target="_blank"><em class="footer-icon-qihuoqr"></em></a><br>扫一扫下载APP
+        </div>
+        <div class="ftglist footer-lastqihuo">
+            <div class="ftglistt">期货交易</div>
+            <ul>
+                <li><a href="https://qs.dfcfw.com/1606" target="_blank">期货手机开户</a></li>
+                <li><a href="https://qs.dfcfw.com/1607" target="_blank">期货电脑开户</a></li>
+                <li><a href="https://qs.dfcfw.com/1608" target="_blank">期货官方网站</a></li>
+            </ul>
+        </div>
+    </div>
+        <div class="footercr" style="padding-top:8px;">信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-61278686 举报邮箱：<a target="_self" href="mailto:jubao@eastmoney.com">jubao@eastmoney.com</a></div>
+        <div class="footercr" style="padding-bottom:8px;">
+            <em class="icon icon_icp"></em>沪ICP证:沪B2-20070217 <a target="_blank" rel="nofollow" href="https://beian.miit.gov.cn/" style="color: #3F3F3F;text-decoration:none;">网站备案号:沪ICP备05006054号-11 </a> <a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000120" target="_blank" style="color: #3F3F3F;text-decoration:none;"><em class="icon icon_pol"></em>沪公网安备 31010402000120号</a> 版权所有:东方财富网 <span class="yjyfk">意见与建议:4000300059/952500</span>
+        </div>
+    <div class="footerlinks">
+			<a href="http://about.eastmoney.com" target="_blank" rel="nofollow">关于我们</a>
+            <a href="https://about.eastmoney.com/about/sdindex" target="_blank" rel="nofollow">可持续发展</a>
+			<a href="http://emhd2.eastmoney.com/market" target="_blank" rel="nofollow">广告服务</a>
+			<a href="http://about.eastmoney.com/home/contact" target="_blank" rel="nofollow">联系我们</a>
+			<a href="https://zhaopin.eastmoney.com/" target="_blank" rel="nofollow">诚聘英才</a>
+			<a href="http://about.eastmoney.com/home/legal" target="_blank" rel="nofollow">法律声明</a>
+            <a href="http://about.eastmoney.com/home/conceal" target="_blank" rel="nofollow">隐私保护</a>
+			<a href="http://about.eastmoney.com/home/parper" target="_blank" rel="nofollow">征稿启事</a>
+			<a href="http://about.eastmoney.com/home/links" target="_blank" rel="nofollow">友情链接</a>
+    </div>
+    <div class="footerbz">
+        <img src="//g1.dfcfw.com/g3/201905/20190531140719.png" title="亲爱的市民朋友，上海警方反诈劝阻电
+话“962110”系专门针对避免您财产被
+骗受损而设，请您一旦收到来电，立即
+接听。" style="vertical-align: bottom;">
+        <span class="icon footer-police" title="上海网警网络110" style="position: relative; margin: 0 4px;"></span>
+        <span class="icon footer-zx110" title="网络社会征信网" style="position: relative;margin: 0 4px;"></span>
+        <a rel="nofollow" href="http://www.shjbzx.cn/" class="icon footer-shjubao" title="上海违法和违规信息举报中心" target="_blank"></a>
+        <a rel="nofollow" href="http://www.12377.cn" class="icon footer-12377" title="中国互联网违法和不良信息举报中心" target="_blank"></a>
+	</div>
+</div>
+
+<script>
+    if(document.all && !window.XMLHttpRequest){
+        $(".qrli").hover(function(){
+            $(".icon_qr",this).show();
+        },function(){
+            $(".icon_qr",this).hide();
+        });
+    }
+</script></div></body></html><script src="//emres.dfcfw.com/public/js/websitecommand.js" charSet="utf-8"></script><script src="/newstatic/libs/libs1.min.js"></script><script src="/newstatic/libs/libs2.min.js"></script><script type="text/javascript">
+      var quotedata = {"name":"来伊份","code":"603777","market":1,"quotecode":"1.603777","bk_name":"食品饮料","bk_id":"BK0438","type111":2,"type181":524288};
+      </script><script src="//emres.eastmoney.com/public/js/topnav1200.js"></script><script src="//emcharts.dftzj.com/suggest/stocksuggest2017.min.js "></script><script src="/newstatic/libs/quotechart2022.js"></script><script src="//cfgpassport2.eastmoney.com/captcha/scripts/em_capt.js"></script><script src="//gbfek.dfcfw.com/face_bundle/webjson.js"></script><script src="//gbfek.dfcfw.com/deploy/quote2022_module/work/editor.js"></script><script src="//gbfek.dfcfw.com/deploy/quote2022_module/work/list.js"></script><script src="/newstatic/build/concept.js"></script><script src="//emcharts.dftzj.com/newsts/newsts.min.js"></script><script>var emtj_isUpload = 1;
+        var emtj_pageId = 113200354966;
+        var emtj_logSet = "1111111111";
+        var emtj_sampleRate = 20;</script><script src="//emcharts.dftzj.com/usercollect/usercollect.min.js"></script><script src="https://bdstatics.eastmoney.com/web/prd/jump_tracker.js"></script>
